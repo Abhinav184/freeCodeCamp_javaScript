@@ -1,7 +1,3 @@
-/* Challenge Link:
-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comment-your-javascript-code
-*/
-
 /* =============== First Solution =============== */
 
 // In-line comments can be useful.
