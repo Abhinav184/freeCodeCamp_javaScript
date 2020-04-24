@@ -1,6 +1,3 @@
-/* Challenge Link:
-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-division
-*/
 
 /* =============== First Solution =============== */
 
