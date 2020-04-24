@@ -1,6 +1,3 @@
-/* Challenge Link:
-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/finding-a-remainder-in-javascript
-*/
 
 /* =============== First Solution =============== */
 
