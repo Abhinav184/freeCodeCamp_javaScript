@@ -1,6 +1,3 @@
-/* Challenge Link:
-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/multiply-two-decimals-with-javascript
-*/
 
 /* =============== First Solution =============== */
 
