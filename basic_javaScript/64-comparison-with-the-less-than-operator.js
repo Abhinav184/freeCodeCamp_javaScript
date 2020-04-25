@@ -1,6 +1,4 @@
-/* Challenge Link:
-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-less-than-operator
-*/
+
 
 /* =============== First Solution =============== */
 
