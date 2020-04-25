@@ -1,6 +1,3 @@
-/* Challenge Link:
-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparisons-with-the-logical-or-operator
-*/
 
 /* =============== First Solution =============== */
 
