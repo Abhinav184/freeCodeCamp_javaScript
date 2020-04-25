@@ -1,6 +1,4 @@
-/* Challenge Link:
-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-greater-than-or-equal-to-operator
-*/
+
 
 /* =============== First Solution =============== */
 
