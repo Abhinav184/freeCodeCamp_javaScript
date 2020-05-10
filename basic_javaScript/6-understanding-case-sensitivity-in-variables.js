@@ -1,6 +1,4 @@
-/* Challenge Link:
-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-case-sensitivity-in-variables
-*/
+
 
 /* =============== First Solution =============== */
 
