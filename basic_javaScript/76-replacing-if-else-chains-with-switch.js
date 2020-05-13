@@ -1,6 +1,3 @@
-/* Challenge Link:
-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/replacing-if-else-chains-with-switch
-*/
 
 // Only copy the code below the First Solution banner (the link contains the else and if words)
 
