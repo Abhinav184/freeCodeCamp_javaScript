@@ -1,0 +1,11 @@
+/* Challenge Link:
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-the-conditional-ternary-operator
+*/
+
+/* =============== First Solution =============== */
+
+function checkEqual(a, b) {
+  return a === b ? 'Equal' : 'Not Equal';
+}
+
+checkEqual(1, 2);
